@@ -9,3 +9,7 @@
 > $ sudo insmod main.ko <br>
 > $ modinfo main.ko <br>
 > $ tail /var/log/kern.log <br>
+
+
+### Author
+> <a href="https://me-danuandrean.github.io/"> Danu andrean </a>
